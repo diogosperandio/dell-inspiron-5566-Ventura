@@ -15,8 +15,7 @@ This repository contains the EFI folder used to install macOS Ventura on a Dell 
 | Audio | Realtek ALC3246 |
 | Wi-Fi | Intel AC 8265 NGW |
 | Ethernet | Realtek RTL810xE |
-| BIOS | Version 1.22 |
-| Operating system | macOS Ventura 13.7.8 (22H123) |
+| Operating system | macOS Ventura 13.7.8 |
 
 The original Wi-Fi card did not work with this configuration, so it was replaced with an Intel AC 8265 NGW.
 
@@ -31,4 +30,7 @@ The original Wi-Fi card did not work with this configuration, so it was replaced
 
 1. [Hardware-Sniffer](https://github.com/lzhoang2801/Hardware-Sniffer) — collected the hardware specifications.
 2. [SSDTTime](https://github.com/corpnewt/SSDTTime) — generated the ACPI files.
-3. [OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) — created the EFI folder.
+3. [OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) — created the EFI folder. Very easy, great tool.
+4. [macOS image](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/mac-install-recovery.html) - to -+239,.download legacy versions of macOS including 10.7 to current
+
+.
