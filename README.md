@@ -20,7 +20,7 @@ This repository contains the EFI folder used to install macOS Ventura on a Dell 
 The original Wi-Fi card did not work with this configuration, so it was replaced with an Intel AC 8265 NGW.
 
 ## Working features
-
+- All functions are working
 - Wi-Fi
 - Audio and volume keys
 - Screen brightness and brightness keys
